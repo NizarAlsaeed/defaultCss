@@ -1,9 +1,12 @@
 # defaultCss
 
-CSS default values.
-feel free to copy and paste ;)
-License: none (public domain)
-Reference: https://www.w3schools.com/cssref/css_default_values.asp
+ CSS default values.
+ 
+ feel free to copy and paste ;)
+ 
+ License: none (public domain)
+
+ >Reference: https://www.w3schools.com/cssref/css_default_values.asp
 
 
 ```css
@@ -23,7 +26,9 @@ a:link:active{ 	color: (internal value);
 a:visited:active{ 	color: (internal value);
 }
 
-address,article,aside,blockquote,body,dd,details,div,dl,dt,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hr,html,iframe[seamless],legend,menu,nav,ol,p,pre,section,summary,ul{
+address,article,aside,blockquote,body,dd,details,div,dl,dt,fieldset,figcaption
+,figure,footer,form,h1,h2,h3,h4,h5,h6
+,header,hr,html,iframe[seamless],legend,menu,nav,ol,p,pre,section,summary,ul{
     display: block;
 }
 address{font-style: italic;} 	
